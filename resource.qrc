@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>img/diag.png</file>
+        <file>img/graph.png</file>
+        <file>img/log_out.png</file>
+        <file>img/arrow.png</file>
+        <file>img/table_products.png</file>
+        <file>img/plus.png</file>
+        <file>img/gal.png</file>
+        <file>img/obnova.png</file>
+        <file>img/hello.png</file>
+    </qresource>
+</RCC>
